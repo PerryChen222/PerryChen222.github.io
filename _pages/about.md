@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second year undergraduate student from School of Mathemetic Sciences, Fudan University. My research interests includes LLM, Reinforcement Learning and Operation Reasearch.
 
-I am very fortunate to be advised by [Prof. Hongning Wang] of CoAI Lab from [School of Computer Science], Tshinghua University.
+I am very fortunate to be advised by Prof. Hongning Wang of CoAI Lab from Department of Computer Science and Technology, Tshinghua University.
 
 
 
